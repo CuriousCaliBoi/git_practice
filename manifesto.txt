@@ -5,3 +5,5 @@ Enter the hero
 
 Koizumi:
 Why don't you want to win.
+
+Hero appears
